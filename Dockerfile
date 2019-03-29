@@ -1,5 +1,5 @@
 FROM alpine
-LABEL maintainer="Alen Komljen <akomljen.com>"
+LABEL maintainer="Ashutosh Mishra <ashutoshdtu@gmail.com>"
 
 ENV HELM_VERSION="v2.8.2"
 ENV KUBECTL_VERSION="v1.9.3"
